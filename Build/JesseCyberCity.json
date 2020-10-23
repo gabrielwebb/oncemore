@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "JesseXR",
+"productVersion": "0.1",
+"dataUrl": "JesseCyberCity.data.unityweb",
+"wasmCodeUrl": "JesseCyberCity.wasm.code.unityweb",
+"wasmFrameworkUrl": "JesseCyberCity.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
